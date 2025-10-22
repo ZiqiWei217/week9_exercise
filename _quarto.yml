@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ziqi Wei"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: fall2025.qmd
+        text: Fall 2025
+    right:
+      - icon: github
+        href: "https://github.com/ZiqiWei217"
+        aria-label: GitHub
+
+format:
+  html:
+    theme: sandstone
+    toc: true
+
+resources:
+  - "Ziqi Wei Resume.pdf"

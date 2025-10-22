@@ -1,0 +1,19 @@
+---
+title: "Fall 2025 Courses"
+---
+
+Here are the courses I am taking during the Fall 2025 semester at the University of Illinois Chicago.
+
+### My Course List
+
+* **IDS 570 Statistics for Management (36641)**
+    * *Instructor: Multiple Instructors*
+
+* **PA 446 Coding Civic Data Applications (45128)**
+    * *Instructor: Saman Shafiq*
+
+* **PA 504 Financial Mgmt and Budgeting (32021)**
+    * *Instructor: Tom Farmer*
+
+* **PA 590 Capstone Portfolio in Policy (25082)**
+    * *Instructor: Erik Devereux*
