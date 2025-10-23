@@ -1,6 +1,6 @@
 ---
 title: "Ziqi Wei"
-image: profile.jpg
+image: "assets/profile.jpg"
 about:
   template: jolla
   image-shape: round
@@ -13,7 +13,7 @@ about:
       href: "https://github.com/ZiqiWei217"
     - text: Resume
       icon: file-text
-      href: "Ziqi_Wei_Resume.pdf"
+      href: "assets/Ziqi_Wei_Resume.pdf"
 ---
 
 Welcome to my personal portfolio.

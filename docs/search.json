@@ -7,13 +7,6 @@
     "text": "Welcome to my personal portfolio.\nI am a graduate student at the University of Illinois Chicago, pursuing a Master of Science in Civic Analytics. Nowadays, my research focuses on AI integration strategies for city governments and I have technical skills in Python, R, machine learning, and data visualization."
   },
   {
-    "objectID": "index.html#index.qmd",
-    "href": "index.html#index.qmd",
-    "title": "Ziqi Wei",
-    "section": "",
-    "text": "title: “Ziqi Wei” image: profile.jpg about: template: jolla image-shape: round links: - text: Email icon: envelope href: “mailto:ziqiwei990@gmail.com” - text: GitHub icon: github href: “https://github.com/ZiqiWei217” - text: Resume icon: file-text href: “Ziqi Wei Resume.pdf” —\nWelcome to my personal portfolio.\nI am a graduate student at the University of Illinois Chicago, pursuing a Master of Science in Civic Analytics. Nowadays, my research focuses on AI integration strategies for city governments and I have technical skills in Python, R, machine learning, and data visualization."
-  },
-  {
     "objectID": "fall2025.html",
     "href": "fall2025.html",
     "title": "Fall 2025 Courses",

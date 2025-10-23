@@ -21,4 +21,5 @@ format:
     toc: true
 
 resources:
-  - "Ziqi_Wei_Resume.pdf"
+  - "assets/Ziqi_Wei_Resume.pdf"
+  - "assets/profile.jpg"
