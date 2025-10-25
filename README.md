@@ -1,4 +1,4 @@
-Week 9 Inclass EXERCISE:
+Week 9 Exercise :
 
 • Create a webpage (GitHub Page using Quarto) that:  
 
