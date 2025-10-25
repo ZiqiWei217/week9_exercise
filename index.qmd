@@ -13,7 +13,7 @@ about:
       href: "https://github.com/ZiqiWei217"
     - text: Resume
       icon: file-text
-      href: "assets/Ziqi_Wei_Resume.pdf"
+      href: "https://ziqiwei217.github.io/week9_exercise/assets/Ziqi_Wei_Resume.pdf"
 ---
 
 Welcome to my personal portfolio.
